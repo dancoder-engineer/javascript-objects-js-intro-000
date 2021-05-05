@@ -5,5 +5,5 @@ function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 
-updatePlaylist(playlist,'a','a')
+playlist = updatePlaylist(playlist,'a','a')
 console.log(playlist)
